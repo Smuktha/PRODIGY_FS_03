@@ -1,0 +1,13 @@
+/* Add global styles here */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f8f8;
+  margin: 0;
+  padding: 0;
+}
+
+/* You can add other global styles or resets here */
