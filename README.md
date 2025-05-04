@@ -19,6 +19,7 @@ This project is built as part of the **Prodigy InfoTech internship**. It showcas
 - **Tailwind CSS**
 - **Zustand** – for managing cart state
 - **Modular Folder Structure**
+  
 
 ---
 
@@ -50,5 +51,3 @@ Open [http://localhost:3000](http://localhost:3000) to view the app.
 - 🎯 Internship Task 3  
 - 🏢 Organization: Prodigy InfoTech  
 - 🔗 Hashtag: #ProdigyInfoTech
-
-
