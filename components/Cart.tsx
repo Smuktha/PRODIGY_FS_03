@@ -9,7 +9,7 @@ const Cart: React.FC = () => {
   const handleClearCart = () => {
     clearCart();
   };
-
+     
   return (
     <div className="bg-gray-100 p-4 rounded-md shadow-md">
       <h3 className="text-xl font-semibold">Cart</h3>
