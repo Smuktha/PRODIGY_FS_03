@@ -10,7 +10,7 @@ const Cart: React.FC = () => {
     clearCart();
   };
      
-  return (    
+  return (        
     <div className="bg-gray-100 p-4 rounded-md shadow-md">
       <h3 className="text-xl font-semibold">Cart</h3>
       {cart.length === 0 ? (
