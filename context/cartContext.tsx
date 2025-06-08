@@ -8,7 +8,7 @@ import { Product } from "../types/product";
 interface CartItem {  
   product: Product;     
   quantity: number;   
-} 
+}    
 
 // Context type definition
 interface CartContextType {
