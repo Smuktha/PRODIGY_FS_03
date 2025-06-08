@@ -6,7 +6,7 @@ import { Product } from "../types/product";
   
 // CartItem type definition
 interface CartItem {  
-  product: Product;  
+  product: Product;   
   quantity: number;   
 } 
 
