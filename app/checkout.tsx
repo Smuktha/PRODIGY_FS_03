@@ -2,7 +2,7 @@
 import { useCart } from "../context/cartContext"; 
 import Link from "next/link";  
  
-const Checkout: React.FC = () => {  
+const Checkout: React.FC = () => {   
   const { cart } = useCart();
 
   // Calculate total price of items in the cart
