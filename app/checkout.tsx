@@ -1,7 +1,7 @@
 "use client";      
 import { useCart } from "../context/cartContext"; 
 import Link from "next/link"; 
-
+ 
 const Checkout: React.FC = () => {  
   const { cart } = useCart();
 
