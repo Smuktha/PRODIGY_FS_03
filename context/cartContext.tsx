@@ -3,7 +3,7 @@
 
 import React, { createContext, useContext, useState } from "react";
 import { Product } from "../types/product";
-  
+   
 // CartItem type definition
 interface CartItem {  
   product: Product;     
