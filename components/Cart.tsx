@@ -7,7 +7,7 @@ const Cart: React.FC = () => {
   const { cart, clearCart } = useCart();   
  
   const handleClearCart = () => {   
-    clearCart();
+    clearCart();   
   };   
      
   return (           
