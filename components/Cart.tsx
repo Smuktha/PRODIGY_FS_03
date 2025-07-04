@@ -5,7 +5,7 @@ import { useCart } from "../context/cartContext";
        
 const Cart: React.FC = () => {    
   const { cart, clearCart } = useCart();      
- 
+   
   const handleClearCart = () => {   
     clearCart();   
   };       
