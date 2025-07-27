@@ -1,4 +1,4 @@
-// data/products.ts
+// data/products.ts 
 
 import { Product } from "../types/product";
 
