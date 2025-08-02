@@ -1,4 +1,4 @@
-"use client"; 
+"use client"; l
 import { useCart } from "../context/cartContext"; 
 import Link from "next/link";   
   
